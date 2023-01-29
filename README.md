@@ -1,5 +1,5 @@
 # WalletTesting
-This is a simple user credit/debit wallet to allow users to check balance, add/withdraw amount, and see their transaction history.
+This is a simple credit/debit wallet to allow users to check balance, add/withdraw amount, and see their transaction history.
 
 A test user/wallet is created when the server is booted.
 
