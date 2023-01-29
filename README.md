@@ -1,7 +1,7 @@
 # WalletTesting
 This is a simple credit/debit wallet to allow users to check balance, add/withdraw amount, and see their transaction history.
 
-A test user/wallet is created when the server is booted.
+A test user/wallet is created when the server is booted (username: "test", password: "test").
 
 **/Backend** - contains the server-side code (SpringBoot) with system test cases (JUnit+RestAssured)
 <br/>
